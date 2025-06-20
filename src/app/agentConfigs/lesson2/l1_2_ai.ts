@@ -1,7 +1,7 @@
 import { AgentConfig } from "@/app/types";
 
 export const languageTutor: AgentConfig = {
-    name: 'l1_1_a1_spanish_tutor',
+    name: 'l1_2_a1_spanish_tutor',
     publicDescription: 'Agent that helps the user learn a new language.',
     instructions: `
 {
